@@ -37,11 +37,11 @@ Appium is an open-source, cross-platform automation tool for testing mobile appl
 
 3.5. Connect a device or emulator: Connect a physical device or launch an emulator to test on. For Android, use Android Debug Bridge (ADB) to connect the device or emulator to Appium. For iOS, use the Xcode developer tools.
 
-3.6. Install UiAutomator2 Driver. In Appium, UIAutomator2 is used as a driver to interact with and automate Android devices.
+3.6. Install UiAutomator2 Driver. In Appium, UiAutomator2 is used as a driver to interact with and automate Android devices.
 
 3.7. Start Appium server: Start the Appium server by running the Appium executable or using a package manager. The Appium server listens for incoming commands from the test script and translates them into actions on the device or emulator.
 
-
+For installation of Appium you can visit Appium website, it contains very clear explanations and steps.
 
 
 I will keep adding information....
