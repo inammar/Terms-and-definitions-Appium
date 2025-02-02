@@ -43,5 +43,14 @@ Appium is an open-source, cross-platform automation tool for testing mobile appl
 
 For installation of Appium you can visit Appium website, it contains very clear explanations and steps.
 
+### 4. Desired Capabilities
+
+Capabilities are used to set attributes to tell Appium how you want your tests to be executed. They used to communicate with the server.
+
+There are three types of capabilities: common capabilities to all OS, Android capabilities and iOS capabilities. 
+
+Some common capabilities: platformName, platformVersion, deviceName, app; Android specific capabilities: appPackage, appActivity; iOS - bundleId.
+
+
 
 I will keep adding information....
